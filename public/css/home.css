@@ -1,0 +1,17 @@
+.home{
+    background-color: #d5d8b58e;
+    background-image: none;
+}
+.li{
+    margin-left: 50px ;
+}
+.li a{
+    margin: 20px;
+}
+.img{
+    margin-bottom: 20px;
+}
+.footer{
+    background-color: #809A6F;
+    margin: 100px;
+}

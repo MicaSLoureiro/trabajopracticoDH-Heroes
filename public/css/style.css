@@ -1,0 +1,33 @@
+@import './general.css';
+@import './variables.css';
+@import './home.css';
+@import './babbage.css';
+@import './berners-lee.css';
+@import './clarke.css';
+@import './hamilton.css';
+@import './hopper.css';
+@import './lovelace.css';
+@import './turing.css';
+
+header{
+    background-color:  #CC9C75;
+}
+body{
+    background-image: url("../img/backgroundimage.jpg");
+}
+h1{
+    background-color: #809A6F;
+    color: #ffffff;
+}
+h2{
+    color: #809A6F;
+}
+h3{
+    color: #A25B5B;
+}
+h4{
+    color:  #809A6F;
+}
+li{
+    color: #A25B5B;
+}

@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: var(--fuente);
+}
+a{
+    color: #882929;
+    text-decoration: none;
+    margin-left: 100px;
+}
+p{
+    color: #424242;
+}
+li{
+    list-style: none;
+    margin-left: 200px;
+}
+img{
+    margin-left: 0px;
+}
+h2{
+    margin: 20px;
+    margin-left: 100px;
+    font-size: 30px;
+    font-weight: 700;
+}
+h3{
+    margin-left: 100px;
+}
+h4{
+    margin-left: 100px;
+}
+p{
+    margin-left: 150px;
+}
+aside{
+    margin-left: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
